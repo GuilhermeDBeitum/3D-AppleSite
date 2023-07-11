@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "apple3d",
+    "public": "www",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
